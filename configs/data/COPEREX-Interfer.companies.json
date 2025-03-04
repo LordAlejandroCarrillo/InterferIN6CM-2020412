@@ -1,0 +1,304 @@
+[{
+  "_id": {
+    "$oid": "67c32e3957e2e170b8f48aa9"
+  },
+  "name": "Fanta",
+  "impact": "Alimenticio",
+  "years": 54,
+  "category": "MICROENTERPRISE",
+  "state": true,
+  "createdAt": {
+    "$date": "2025-03-01T15:56:41.301Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-01T15:56:41.301Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c3564b1024b3952e1f2e8e"
+  },
+  "name": "Honda",
+  "impact": "Transporte",
+  "years": 2001,
+  "category": "GRAND_COMPANY",
+  "state": true,
+  "createdAt": {
+    "$date": "2025-03-01T18:47:39.565Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-04T01:32:40.497Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c35af3a1d6fa050f490599"
+  },
+  "name": "McDonalds",
+  "impact": "Comida Rápida",
+  "years": 120,
+  "category": "GRAND_COMPANY",
+  "state": true,
+  "createdAt": {
+    "$date": "2025-03-01T19:07:31.237Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-01T19:07:31.237Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c35b14a1d6fa050f49059f"
+  },
+  "name": "Toyota",
+  "impact": "Transporte",
+  "years": 30,
+  "category": "MIDDLE_COMPANY",
+  "state": true,
+  "createdAt": {
+    "$date": "2025-03-01T19:08:04.052Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-01T19:08:04.052Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c38a5f3477c0025697433c"
+  },
+  "name": "DELL",
+  "impact": "Computadoras",
+  "years": 54,
+  "category": "MIDDLE_COMPANY",
+  "state": true,
+  "createdAt": {
+    "$date": "2025-03-01T22:29:51.858Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-01T22:29:51.858Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c3aabde88515a4a6905e4a"
+  },
+  "name": "PH",
+  "impact": "Tecnológico",
+  "years": 23,
+  "category": "MIDDLE_COMPANY",
+  "state": true,
+  "createdAt": {
+    "$date": "2025-03-02T00:47:57.985Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-02T00:47:57.985Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c3abab995f228abb93fd6a"
+  },
+  "name": "Intel",
+  "impact": "Tecnológico",
+  "years": 23,
+  "category": "MIDDLE_COMPANY",
+  "state": true,
+  "createdAt": {
+    "$date": "2025-03-02T00:51:55.365Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-02T00:51:55.365Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c3ac7b995f228abb93fd70"
+  },
+  "name": "PlayStation",
+  "impact": "Videojuegos",
+  "years": 74,
+  "category": "SMALL_COMPANY",
+  "state": true,
+  "createdAt": {
+    "$date": "2025-03-02T00:55:23.431Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-02T00:55:23.431Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c3ae799c8f03402754d7ed"
+  },
+  "name": "Ferrarri",
+  "impact": "Carros",
+  "years": 140,
+  "category": "GRAND_COMPANY",
+  "state": true,
+  "createdAt": {
+    "$date": "2025-03-02T01:03:53.540Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-02T01:03:53.540Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c3b1378033caabb02e7447"
+  },
+  "name": "BI",
+  "impact": "Banco",
+  "years": 140,
+  "category": "GRAND_COMPANY",
+  "state": true,
+  "createdAt": {
+    "$date": "2025-03-02T01:15:35.959Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-02T01:15:35.959Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c3b18127a7fddeda194a34"
+  },
+  "name": "Megapaca",
+  "impact": "Venta",
+  "years": 20,
+  "category": "SMALL_COMPANY",
+  "state": true,
+  "createdAt": {
+    "$date": "2025-03-02T01:16:49.844Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-02T01:16:49.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c3b3633c119247496572d3"
+  },
+  "name": "Brave",
+  "impact": "Internet",
+  "years": 20,
+  "category": "GRAND_COMPANY",
+  "state": true,
+  "createdAt": {
+    "$date": "2025-03-02T01:24:51.965Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-02T01:24:51.965Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c3bbabc5be74dc1df91cec"
+  },
+  "name": "Incaparina",
+  "impact": "Alimenticia",
+  "years": 42,
+  "category": "MIDDLE_COMPANY",
+  "state": true,
+  "createdAt": {
+    "$date": "2025-03-02T02:00:11.348Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-02T02:00:11.348Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c3bbe2f89977045289a847"
+  },
+  "name": "Tortrix",
+  "impact": "Alimenticia",
+  "years": 15,
+  "category": "SMALL_COMPANY",
+  "state": true,
+  "createdAt": {
+    "$date": "2025-03-02T02:01:06.167Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-02T02:01:06.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c64eeaf268084cb366ee6f"
+  },
+  "name": "Nissan",
+  "impact": "Transporte",
+  "years": 1200,
+  "category": "GRAND_COMPANY",
+  "state": true,
+  "createdAt": {
+    "$date": "2025-03-04T00:52:58.740Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-04T00:52:58.740Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c64f2c4d5e5f3a2d99135f"
+  },
+  "name": "Bremen",
+  "impact": "Alimenticia",
+  "years": 15,
+  "category": "SMALL_COMPANY",
+  "state": true,
+  "createdAt": {
+    "$date": "2025-03-04T00:54:04.698Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-04T00:54:04.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c655264d64a16268dc2d67"
+  },
+  "name": "Suzuki",
+  "impact": "Transporte",
+  "years": 1200,
+  "category": "GRAND_COMPANY",
+  "state": true,
+  "createdAt": {
+    "$date": "2025-03-04T01:19:34.342Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-04T01:19:34.342Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c655f69fbe9ecec4239c37"
+  },
+  "name": "Buggati",
+  "impact": "Transporte",
+  "years": 2001,
+  "category": "GRAND_COMPANY",
+  "state": true,
+  "createdAt": {
+    "$date": "2025-03-04T01:23:02.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-04T01:23:02.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c65640af588858b789eabb"
+  },
+  "name": "McKlaren",
+  "impact": "Transporte",
+  "years": 2001,
+  "category": "GRAND_COMPANY",
+  "state": true,
+  "createdAt": {
+    "$date": "2025-03-04T01:24:16.452Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-04T01:24:16.452Z"
+  }
+}]
